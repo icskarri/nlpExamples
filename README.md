@@ -2,7 +2,7 @@
 
 This is a simple js file with some natural language processing examples, using the natural package.
 
-natural can be installed with the following command:
+Assuming you have node.js installed on your machine, the natural package can be installed from the terminal with the following command:
 ```
 npm install natural
 ```
