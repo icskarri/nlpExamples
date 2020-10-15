@@ -1,6 +1,6 @@
 //basic natural language processing in js
 //loading 'natural' package
-//var natural = require('natural');
+var natural = require('natural');
 
 //use WordTokenizer method as object 'tokenizer' 
 var tokenizer = new natural.WordTokenizer();
