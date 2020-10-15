@@ -7,4 +7,4 @@ Assuming you have node.js installed on your machine, the natural package can be 
 npm install natural
 ```
 
-If you download the ```index.html``` file and run it in the browser, the console in developer tools will return an error. This is because the code is written to run in a terminal instance with node.
+The code is written to run in a terminal instance with node. Changes to ```index.html``` pending.
